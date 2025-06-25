@@ -10,7 +10,7 @@ Oláá 👋
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueAnjos&layout=compact">
 <br>
 <br>
 <div>  <a href = "mailto:phanjosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
