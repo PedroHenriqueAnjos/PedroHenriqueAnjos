@@ -10,7 +10,7 @@ Oláá 👋
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/Git-original.svg">
+  <img align="center" alt="Pedro-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/git-original.svg">
 <br>
 <br>
 <br>
