@@ -1,8 +1,7 @@
 Oláá 👋
 
-- 👨‍💻 Atualemente Desenvolvedor Front-End visando migrar para o Back end.
-- 📕 Atualmente estudando Java e Python.
-- 🙆‍♂️ Tenho 16 Anos.
+- 👨‍💻 Atualmente estudando Back-End e Cloud (Java e AWS).
+- 🙆‍♂️ Tenho 17 Anos.
 - 📫 Fale Comigo por Email.
 
 <div style="display: inline_block"><br>
