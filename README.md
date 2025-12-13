@@ -1,9 +1,7 @@
-<h1 align="center">Oláá 👋</h1>
+<h1 align="center">Olá! Eu sou o Pedro💎</h1>
 
-- 👨‍💻 Atualmente estudando Back-End e Cloud (Java e AWS).  
-- 🙆‍♂️ Tenho 17 anos.  
-- 📚 Buscando evoluir constantemente através de projetos e estudos.  
-- 📫 Fale comigo por email: **phanjosdev@gmail.com**
+- Técnico em informática | Atualmente estudando Back-End e Cloud (Java e AWS).  
+
 
 
 
